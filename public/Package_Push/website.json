@@ -1,0 +1,8 @@
+{  
+    "websiteName": "Propiedades Mexico CRM",  
+    "websitePushID": "web.com.propiedadesmexico",  
+    "allowedDomains": ["https://980626a7.ngrok.io"],  
+    "urlFormatString": "https://980626a7.ngrok.io/%@/",  
+    "authenticationToken": "19f8dea6e9fb8a7f6d9330dabe",  
+    "webServiceURL": "https://980626a7.ngrok.io"  
+} 
